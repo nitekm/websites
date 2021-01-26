@@ -1,2 +1,2 @@
 # websites
- Websites project
+ Websites is simple program for training observer design pattern
